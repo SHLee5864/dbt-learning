@@ -1,4 +1,3 @@
-🇫🇷 Résumé complet (Version détaillée en français)
 🎯 Objectif général
 Ce projet vise à développer des compétences d’Analytics Engineer (AE) afin d’évoluer vers un rôle de Data Architect dans le domaine de l’assurance, en utilisant la Modern Data Stack : dbt, DuckDB, GitHub, tests de qualité, modélisation en couches.
 
@@ -81,8 +80,6 @@ Connexion avec Databricks
 Extension vers un cas réel assurance (IFRS17 / sinistres / primes)
 
 
-
-🇺🇸 English summary (Short Version)
 ✔ Overview
 Learning project to build Analytics Engineering skills using dbt + DuckDB, preparing for a transition to Insurance Data Architect.
 ✔ Progress
@@ -101,8 +98,6 @@ git add .
 git commit -m "feat(W1D4): add marts models"
 git push
 
-
-🇰🇷 한국어 요약 (간단 버전)
 ✔ 전체 개요
 dbt + DuckDB 기반으로 Analytics Engineer 핵심 능력을 학습하고, 보험 데이터 아키텍트로 성장하기 위한 프로젝트.
 ✔ 진행 내용
