@@ -2,6 +2,7 @@
 
 select
     order_id,
+    product_id,
     customer_id,
     cast(order_date as date)    as order_date,
     cast(amount as float)       as amount,
