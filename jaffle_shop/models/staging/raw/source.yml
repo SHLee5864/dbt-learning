@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: main
+    tables:
+      - name: customers
+        description: "Raw customer table loaded via seeds"
+      - name: orders
+        description: "Raw orders table loaded via seeds"
+      - name: products
+        description: "Raw products table loaded via seeds"
