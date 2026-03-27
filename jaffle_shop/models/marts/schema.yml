@@ -19,3 +19,10 @@ models:
           - relationships:
               to: ref('dim_customers')
               field: customer_id
+  
+  - name: fct_orders_incremental
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null

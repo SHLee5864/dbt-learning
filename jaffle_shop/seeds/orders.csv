@@ -4,3 +4,5 @@ order_id,product_id,customer_id,order_date,amount,order_status
 103,13,2,2023-03-10,42.00,completed
 104,14,3,2023-03-12,300.00,completed
 105,15,5,2023-04-01,18.00,returned
+106,11,4,2023-04-10,55.0,completed
+107,12,2,2023-04-11,25.0,completed
