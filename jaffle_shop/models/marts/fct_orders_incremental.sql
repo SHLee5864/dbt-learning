@@ -1,5 +1,5 @@
-# This is an incremental model that builds on top of the fct_orders model.
-# It will only process new records based on the order_date column.
+-- This is an incremental model that builds on top of the fct_orders model.
+--It will only process new records based on the order_date column.
 
 {{ config(
     materialized='incremental',
