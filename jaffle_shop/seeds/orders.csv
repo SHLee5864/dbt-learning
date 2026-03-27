@@ -4,5 +4,13 @@ order_id,product_id,customer_id,order_date,amount,order_status
 103,13,2,2023-03-10,42.00,completed
 104,14,3,2023-03-12,300.00,completed
 105,15,5,2023-04-01,18.00,returned
-106,11,4,2023-04-10,55.0,completed
-107,12,2,2023-04-11,25.0,completed
+106,11,4,2023-04-10,55.00,completed
+107,12,2,2023-04-11,25.00,completed
+108,16,6,2023-04-15,75.00,completed
+109,17,7,2023-04-20,150.00,completed
+110,18,8,2023-03-08,60.00,completed
+103,13,2,2023-03-10,45.00,refunded
+111,19,9,2023-02-25,200.00,completed
+106,11,4,2023-04-10,57.00,completed
+112,20,10,2023-04-22,33.00,completed
+102,12,1,2023-03-05,85.00,refunded
